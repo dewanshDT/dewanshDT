@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on Web Technologies
 - 📫 How to reach me: dewansh.dt@gmail.com
-- checkout my [portfolio website](http://dewanshthakur.herokuapp.com/).
+- checkout my <a href="http://dewanshthakur.herokuapp.com/" target="_blank">portfolio website</a>
 
 <!---
 dewanshDT/dewanshDT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
