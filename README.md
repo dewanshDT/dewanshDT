@@ -1,8 +1,8 @@
-# Hi, I am Dewansh 👋
+# 👋 Hello there, I'm Dewansh
 - 🔭 I’m currently working on React and NodeJS
 - 🌱 I’m currently learning Data Structurs and Algorithms
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help in finding internship opportunities
+- 🤝 I’m looking to collaborate on Web Development Projects
+- 🔎 I’m looking for help in finding internship opportunities
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-dewanshthakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewanshthakur/)](https://www.linkedin.com/in/dewanshthakur/)
