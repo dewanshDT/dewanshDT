@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-dewanshthakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewanshthakur/)](https://www.linkedin.com/in/dewanshthakur/)
 [![Twitter Badge](https://img.shields.io/badge/-@thakurDewansh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thakurDewansh)](https://twitter.com/thakurDewansh)
-[![Instagram Badge](https://img.shields.io/badge/-@d.e.w.a.n.s.h-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/d.e.w.a.n.s.h/)](https://instagram.com/d.e.w.a.n.s.h)
+[![Instagram Badge](https://img.shields.io/badge/-@dewanshthakur_-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dewanshthakur_/)](https://instagram.com/dewanshthakur_)
 [![Gmail Badge](https://img.shields.io/badge/-dewansh.dt@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewansh.dt@gmail.com)](mailto:dewansh.dt@gmail.com)
 
 ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dewanshDT&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
