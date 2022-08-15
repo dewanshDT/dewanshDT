@@ -1,3 +1,6 @@
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=dewanshDT&hide_border=true&hide_title=true&area=true&bg_color=0D1117&color=C9D1D9&area_color=238636&line=FFFFFF20&point=238636">
+ 
 # 👋 Hello there, I'm Dewansh
 - 🔭 I’m currently working on React and NodeJS
 - 🌱 I’m currently learning Data Structurs and Algorithms
@@ -10,6 +13,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@dewanshthakur_-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dewanshthakur_/)](https://instagram.com/dewanshthakur_)
 [![Gmail Badge](https://img.shields.io/badge/-dewansh.dt@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewansh.dt@gmail.com)](mailto:dewansh.dt@gmail.com)
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dewanshDT&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewanshDT&hide=html&layout=compact)](https://github.com/dewanshDT/github-readme-stats)
+ 
