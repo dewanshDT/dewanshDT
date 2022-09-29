@@ -8,6 +8,8 @@
 - 🔎 I’m looking for help in finding internship opportunities
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: 
+[My website](https://dewanshthakur.herokuapp.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-dewanshthakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewanshthakur/)](https://www.linkedin.com/in/dewanshthakur/)
 [![Twitter Badge](https://img.shields.io/badge/-@thakurDewansh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thakurDewansh)](https://twitter.com/thakurDewansh)
 [![Instagram Badge](https://img.shields.io/badge/-@dewanshthakur_-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dewanshthakur_/)](https://instagram.com/dewanshthakur_)
