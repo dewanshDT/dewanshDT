@@ -1,5 +1,5 @@
 
- <img src="https://activity-graph.herokuapp.com/graph?username=dewanshDT&hide_border=true&hide_title=true&area=true&bg_color=0D1117&color=C9D1D9&area_color=238636&line=FFFFFF20&point=238636">
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=dewanshDT&hide_border=true&hide_title=true&area=true&bg_color=0D1117&color=C9D1D9&area_color=238636&line=FFFFFF20&point=238636"> -->
  
 # 👋 Hello there, I'm Dewansh
 - 🔭 I’m currently working on React and NodeJS
