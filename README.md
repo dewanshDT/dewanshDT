@@ -1,14 +1,9 @@
 
 <!--  <img src="https://activity-graph.herokuapp.com/graph?username=dewanshDT&hide_border=true&hide_title=true&area=true&bg_color=0D1117&color=C9D1D9&area_color=238636&line=FFFFFF20&point=238636"> -->
- 
-# 👋 Hello there, I'm Dewansh
-- 🔭 I’m currently working on React and NodeJS
-- 🌱 I’m currently learning Data Structurs and Algorithms
-- 🤝 I’m looking to collaborate on Web Development Projects
-- 🔎 I’m looking for help in finding internship opportunities
-- 💬 Ask me about JavaScript
-- 📫 How to reach me: 
-[My website](https://dewanshthakur.vercel.app)
+## 👋 Hello there! I'm Dewansh
+I'm a web developer and open source enthusiast passionate about using technology to create impactful solutions. I love collaborating on open source projects, contributing to the community, and learning new skills.
+
+visit my portfolio [here](https://dewanshthakur.vercel.app)
 
 [![Linkedin Badge](https://img.shields.io/badge/-dewanshthakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewanshthakur/)](https://www.linkedin.com/in/dewanshthakur/)
 [![Twitter Badge](https://img.shields.io/badge/-@thakurDewansh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thakurDewansh)](https://twitter.com/thakurDewansh)
