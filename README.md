@@ -3,7 +3,7 @@
 ## 👋 Hello there! I'm Dewansh
 I'm a web developer and open source enthusiast passionate about using technology to create impactful solutions. I love collaborating on open source projects, contributing to the community, and learning new skills.
 
-visit my portfolio [here](https://dewanshthakur.vercel.app)
+visit my portfolio [here](https://dewansh.space)
 
 [![Linkedin Badge](https://img.shields.io/badge/-dewanshthakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewanshthakur/)](https://www.linkedin.com/in/dewanshthakur/)
 [![Twitter Badge](https://img.shields.io/badge/-@thakurDewansh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thakurDewansh)](https://twitter.com/thakurDewansh)
